@@ -1,2 +1,4 @@
-# pi_poem_app_v_2.0
-pi_poem_app_v2_0 es una aplicación interactiva de generación poética basada en los decimales de constantes matemáticas como π, e, φ y √2.
+# Pi Poem App v2.0
+
+Generador de poemas basado en π, e, φ, y √2.
+Elige la constante para ordenar palabras de un texto de entrada.
